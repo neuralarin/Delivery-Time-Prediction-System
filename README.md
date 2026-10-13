@@ -1,11 +1,5 @@
 # Delivery Time Prediction System 📦
 
-## 🚚 Industry Domain 
-
-Supply Chain & Logistics Department 
-
----
-
 ## 🙂 Overview
 
 This project focuses on predicting e-commerce delivery time in days for a logistics company. By analyzing order, product, payment, customer, seller, location, distance, and purchase-time information, the project builds a machine learning regression model to estimate how long an order may take to reach a customer.
