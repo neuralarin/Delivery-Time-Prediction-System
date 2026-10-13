@@ -2,7 +2,7 @@
 
 ## 🙂 Overview
 
-This project focuses on predicting e-commerce delivery time in days for a logistics company. By analyzing order, product, payment, customer, seller, location, distance, and purchase-time information, the project builds a machine learning regression model to estimate how long an order may take to reach a customer.
+This project focuses on predicting e-commerce delivery time in days for a logistics company. By analyzing order, product, payment, customer, seller, location, distance, and purchase-time information, i have built a machine learning regression model to estimate how long an order may take to reach a customer.
 
 *The goal is to support delivery planning, identify potential delays, improve estimated delivery times, and help logistics teams make better operational decisions.*
 
@@ -26,16 +26,16 @@ Delivery-Time-Prediction-System/
 ├── data/
 │   └── olist_delivery_time_data.csv
 │
-├── images/                              # EDA charts and visualizations
+├── images/                                                     # EDA charts and visualizations
 │
-├── model/                               # Saved machine learning model
+├── model/                                                      # Saved machine learning model
 │
-├── notebooks/                           # Jupyter notebooks for analysis and modeling
+├── notebooks/                                                  # Jupyter notebooks for analysis and modeling
 │   ├── 1_Exploratory_Data_Analysis.ipynb
 │   └── 2_Data_Preparation_and_Model_Training.ipynb
 │
-├── .gitignore
-├── app.py                               # Streamlit application
+├── .gitignore             
+├── app.py                                                      # Streamlit application
 ├── LICENSE
 ├── README.md
 └── requirements.txt
